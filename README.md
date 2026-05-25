@@ -1,15 +1,26 @@
-SkillCraft Technology Internship - Task 02
+# 🧹 Retail Dataset — Data Cleaning with Python & Pandas
 
-Objective:
-Clean and prepare a retail dataset using Python Pandas.
+A data preprocessing project focused on cleaning and preparing a raw retail dataset for further analysis using Python and Pandas in Google Colab.
 
-Steps Performed:
-- Loaded dataset in Google Colab
-- Checked missing values
+## 🎯 Objective
+Clean and prepare a retail dataset by handling missing values, removing duplicates, and correcting data types — making it ready for downstream analysis.
+
+## 🛠️ Tools & Technologies
+- Python, Pandas, Google Colab, Jupyter Notebook
+
+## ✅ Steps Performed
+- Loaded the dataset in Google Colab
+- Identified and visualized missing values
 - Removed duplicate records
-- Converted Order Date to datetime
-- Filled missing values
-- Exported cleaned dataset
+- Converted `Order Date` column to proper datetime format
+- Filled missing values using appropriate strategies
+- Exported the final cleaned dataset
 
-Tools Used:
-Python, Pandas, Google Colab
+## 📁 Files
+| File | Description |
+|------|-------------|
+| `data_cleaning.ipynb` | Jupyter Notebook with full cleaning pipeline |
+| `Missing values.png` | Visual showing missing value heatmap |
+
+## 💡 Key Skills Demonstrated
+`Data Cleaning` `Missing Value Treatment` `Data Preprocessing` `Pandas` `Python`
