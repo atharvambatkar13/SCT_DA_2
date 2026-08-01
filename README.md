@@ -1,4 +1,4 @@
-# 🧹 Retail Dataset — Data Cleaning with Python & Pandas
+# 🧹 Retail Sales Analytics — Data Cleaning with Python & Pandas
 
 A data preprocessing project focused on cleaning and preparing a raw retail dataset for further analysis using Python and Pandas in Google Colab.
 
